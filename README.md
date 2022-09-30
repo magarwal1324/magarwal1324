@@ -1,9 +1,9 @@
 ### Hi there I'm Megha Agarwal 👋
 
 
-**magarwal1324/magarwal1324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**magarwal1324/magarwal1324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on problem solving
 - 📫 How to reach me: meghaagarwal1324@gmail.com
