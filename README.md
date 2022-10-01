@@ -11,3 +11,4 @@ Here are some ideas to get you started:-->
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=magarwal1324)](https://git.io/streak-stats)
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=magarwal1324&show_icons=true alt=rahuldkjain /> </p>
