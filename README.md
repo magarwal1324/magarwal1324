@@ -10,5 +10,5 @@ Here are some ideas to get you started:-->
 - ⚡ “First, solve the problem. Then, write the code.”
 
 
-<p align="center">[![GitHub Streak](https://streak-stats.demolab.com/?user=magarwal1324)](https://git.io/streak-stats)</p>
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=magarwal1324&show_icons=true alt=rahuldkjain /> </p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=magarwal1324)](https://git.io/streak-stats
+
