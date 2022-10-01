@@ -1,4 +1,4 @@
-### Hi there I'm Megha Agarwal 👋
+### <h1>Hi there I'm Megha Agarwal 👋</h1>
 
 
 <!--**magarwal1324/magarwal1324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
